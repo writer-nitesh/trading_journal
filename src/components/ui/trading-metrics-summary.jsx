@@ -956,7 +956,6 @@ export default function TradingMetricsSummary({
     };
   }, [tradingData, selectedFilter, totalDays, metricsFilter, customDateRange]);
 
-  console.log("Trading Metrics:", metrics);
 
   const metricsCards = useMemo(
     () => [

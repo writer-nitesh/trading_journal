@@ -1,6 +1,6 @@
 "use server"
 
-import { authenticator } from '@otplib/preset-default';
+import { authenticator } from 'otplib';
 
 const BASE_URL = "https://napi.kotaksecurities.com/oauth2/token";
 const LOGIN_URL = 'https://gw-napi.kotaksecurities.com/login/1.0/login/v6/totp/login';
