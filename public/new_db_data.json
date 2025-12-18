@@ -1,0 +1,968 @@
+[
+  {
+    "transaction_type": "BUY",
+    "quantity": 1000,
+    "average_price": 120.33,
+    "tradingsymbol": "PCJEWELLER",
+    "order_timestamp": "2025-06-24T08:44:09.000Z"
+  },
+  {
+    "transaction_type": "SELL",
+    "average_price": 12000.31,
+    "order_timestamp": "2025-06-24T08:46:30.000Z",
+    "tradingsymbol": "PCJEWELLER",
+    "quantity": 1000
+  },
+  {
+    "order_timestamp": "2025-06-24T08:25:56.000Z",
+    "quantity": 100,
+    "transaction_type": "BUY",
+    "tradingsymbol": "IDEA",
+    "average_price": 6.65
+  },
+  {
+    "transaction_type": "SELL",
+    "quantity": 100,
+    "average_price": 600.65,
+    "tradingsymbol": "IDEA",
+    "order_timestamp": "2025-06-24T08:28:39.000Z"
+  },
+  {
+    "average_price": 6.65,
+    "transaction_type": "SELL",
+    "quantity": 2,
+    "order_timestamp": "2025-06-24T08:29:03.000Z",
+    "tradingsymbol": "IDEA"
+  },
+  {
+    "average_price": 6.65,
+    "transaction_type": "SELL",
+    "order_timestamp": "2025-06-24T08:38:11.000Z",
+    "tradingsymbol": "IDEA",
+    "quantity": 2
+  },
+  {
+    "order_timestamp": "2025-06-24T08:43:36.000Z",
+    "tradingsymbol": "IDEA",
+    "transaction_type": "BUY",
+    "quantity": 4,
+    "average_price": 6.67
+  },
+  {
+    "average_price": 12.32,
+    "transaction_type": "SELL",
+    "tradingsymbol": "PCJEWELLER",
+    "quantity": 2,
+    "order_timestamp": "2025-06-24T08:51:21.000Z"
+  },
+  {
+    "order_timestamp": "2025-06-24T08:51:40.000Z",
+    "quantity": 2,
+    "transaction_type": "BUY",
+    "average_price": 12.33,
+    "tradingsymbol": "PCJEWELLER"
+  },
+  {
+    "average_price": 138.3,
+    "transaction_type": "BUY",
+    "tradingsymbol": "NIFTY2571025400PE",
+    "order_timestamp": "2025-07-04T10:20:23.000Z",
+    "quantity": 300
+  },
+  {
+    "average_price": 137.45,
+    "transaction_type": "BUY",
+    "order_timestamp": "2025-07-04T10:20:40.000Z",
+    "quantity": 600,
+    "tradingsymbol": "NIFTY2571025400PE"
+  },
+  {
+    "tradingsymbol": "NIFTY2571025400PE",
+    "quantity": 600,
+    "transaction_type": "BUY",
+    "order_timestamp": "2025-07-04T10:21:00.000Z",
+    "average_price": 133.66875
+  },
+  {
+    "order_timestamp": "2025-07-04T10:21:23.000Z",
+    "tradingsymbol": "NIFTY2571025400PE",
+    "quantity": 300,
+    "transaction_type": "BUY",
+    "average_price": 134
+  },
+  {
+    "average_price": 131.41875,
+    "tradingsymbol": "NIFTY2571025400PE",
+    "transaction_type": "SELL",
+    "quantity": 1800,
+    "order_timestamp": "2025-07-04T10:22:48.000Z"
+  },
+  {
+    "average_price": 147.725,
+    "quantity": 900,
+    "tradingsymbol": "NIFTY2571025400PE",
+    "transaction_type": "BUY",
+    "order_timestamp": "2025-07-04T09:39:11.000Z"
+  },
+  {
+    "tradingsymbol": "NIFTY2571025400PE",
+    "average_price": 137.7,
+    "quantity": 900,
+    "order_timestamp": "2025-07-04T09:53:14.000Z",
+    "transaction_type": "SELL"
+  },
+  {
+    "quantity": 300,
+    "average_price": 139.35,
+    "tradingsymbol": "NIFTY2571025400PE",
+    "transaction_type": "BUY",
+    "order_timestamp": "2025-07-04T10:13:39.000Z"
+  },
+  {
+    "order_timestamp": "2025-07-04T10:15:28.000Z",
+    "transaction_type": "BUY",
+    "average_price": 137.35,
+    "tradingsymbol": "NIFTY2571025400PE",
+    "quantity": 300
+  },
+  {
+    "quantity": 600,
+    "tradingsymbol": "NIFTY2571025400PE",
+    "order_timestamp": "2025-07-04T10:15:59.000Z",
+    "transaction_type": "SELL",
+    "average_price": 134.2
+  },
+  {
+    "order_timestamp": "2025-07-04T10:16:14.000Z",
+    "tradingsymbol": "NIFTY2571025400CE",
+    "average_price": 163.875,
+    "quantity": 300,
+    "transaction_type": "BUY"
+  },
+  {
+    "tradingsymbol": "NIFTY2571025400CE",
+    "average_price": 164.5625,
+    "quantity": 300,
+    "transaction_type": "BUY",
+    "order_timestamp": "2025-07-04T10:16:27.000Z"
+  },
+  {
+    "order_timestamp": "2025-07-04T10:16:50.000Z",
+    "tradingsymbol": "NIFTY2571025400CE",
+    "average_price": 162.5,
+    "quantity": 300,
+    "transaction_type": "BUY"
+  },
+  {
+    "order_timestamp": "2025-07-04T10:16:59.000Z",
+    "tradingsymbol": "NIFTY2571025400CE",
+    "transaction_type": "BUY",
+    "average_price": 161.7625,
+    "quantity": 300
+  },
+  {
+    "transaction_type": "BUY",
+    "quantity": 300,
+    "average_price": 156.8,
+    "order_timestamp": "2025-07-04T10:17:37.000Z",
+    "tradingsymbol": "NIFTY2571025400CE"
+  },
+  {
+    "average_price": 156.315,
+    "order_timestamp": "2025-07-04T10:18:55.000Z",
+    "tradingsymbol": "NIFTY2571025400CE",
+    "quantity": 1500,
+    "transaction_type": "SELL"
+  },
+  {
+    "quantity": 1500,
+    "tradingsymbol": "NIFTY2571025400CE",
+    "transaction_type": "BUY",
+    "average_price": 163.3875,
+    "order_timestamp": "2025-07-04T10:23:02.000Z"
+  },
+  {
+    "tradingsymbol": "NIFTY2571025400CE",
+    "order_timestamp": "2025-07-04T11:09:50.000Z",
+    "transaction_type": "SELL",
+    "quantity": 1500,
+    "average_price": 159.36
+  },
+  {
+    "average_price": 1051.5375,
+    "order_timestamp": "2025-07-01T03:51:16.000Z",
+    "tradingsymbol": "NIFTY2570325500CE",
+    "quantity": 900,
+    "transaction_type": "BUY"
+  },
+  {
+    "average_price": 1602.74166667,
+    "tradingsymbol": "NIFTY2570325500CE",
+    "quantity": 900,
+    "transaction_type": "SELL",
+    "order_timestamp": "2025-07-01T04:03:09.000Z"
+  },
+  {
+    "quantity": 2,
+    "order_timestamp": "2025-06-24T08:51:21.000Z",
+    "tradingsymbol": "PCJEWELLER",
+    "transaction_type": "SELL",
+    "average_price": 12.32
+  },
+  {
+    "average_price": 12.33,
+    "quantity": 2,
+    "order_timestamp": "2025-06-24T08:51:40.000Z",
+    "transaction_type": "BUY",
+    "tradingsymbol": "PCJEWELLER"
+  },
+  {
+    "tradingsymbol": "IDEA",
+    "average_price": 6.65,
+    "quantity": 2,
+    "transaction_type": "SELL",
+    "order_timestamp": "2025-06-24T08:29:03.000Z"
+  },
+  {
+    "tradingsymbol": "IDEA",
+    "transaction_type": "SELL",
+    "quantity": 2,
+    "average_price": 6.65,
+    "order_timestamp": "2025-06-24T08:38:11.000Z"
+  },
+  {
+    "tradingsymbol": "IDEA",
+    "quantity": 4,
+    "average_price": 6.67,
+    "order_timestamp": "2025-06-24T08:43:36.000Z",
+    "transaction_type": "BUY"
+  },
+  {
+    "average_price": 6.65,
+    "tradingsymbol": "IDEA",
+    "transaction_type": "BUY",
+    "quantity": 2,
+    "order_timestamp": "2025-06-24T08:25:56.000Z"
+  },
+  {
+    "average_price": 6.65,
+    "order_timestamp": "2025-06-24T08:28:39.000Z",
+    "tradingsymbol": "IDEA",
+    "transaction_type": "SELL",
+    "quantity": 2
+  },
+  {
+    "transaction_type": "BUY",
+    "quantity": 2,
+    "order_timestamp": "2025-06-24T08:44:09.000Z",
+    "average_price": 12.33,
+    "tradingsymbol": "PCJEWELLER"
+  },
+  {
+    "order_timestamp": "2025-06-24T08:46:30.000Z",
+    "quantity": 2,
+    "tradingsymbol": "PCJEWELLER",
+    "average_price": 12.31,
+    "transaction_type": "SELL"
+  },
+  {
+    "order_timestamp": "2025-07-04T09:39:11.000Z",
+    "quantity": 900,
+    "transaction_type": "BUY",
+    "tradingsymbol": "NIFTY2571025400PE",
+    "average_price": 147.725
+  },
+  {
+    "transaction_type": "SELL",
+    "order_timestamp": "2025-07-04T09:53:14.000Z",
+    "average_price": 137.7,
+    "quantity": 900,
+    "tradingsymbol": "NIFTY2571025400PE"
+  },
+  {
+    "order_timestamp": "2025-07-04T10:13:39.000Z",
+    "quantity": 300,
+    "transaction_type": "BUY",
+    "average_price": 139.35,
+    "tradingsymbol": "NIFTY2571025400PE"
+  },
+  {
+    "order_timestamp": "2025-07-04T10:15:28.000Z",
+    "quantity": 300,
+    "tradingsymbol": "NIFTY2571025400PE",
+    "average_price": 137.35,
+    "transaction_type": "BUY"
+  },
+  {
+    "order_timestamp": "2025-07-04T10:15:59.000Z",
+    "transaction_type": "SELL",
+    "tradingsymbol": "NIFTY2571025400PE",
+    "average_price": 134.2,
+    "quantity": 600
+  },
+  {
+    "average_price": 163.875,
+    "order_timestamp": "2025-07-04T10:16:14.000Z",
+    "transaction_type": "BUY",
+    "tradingsymbol": "NIFTY2571025400CE",
+    "quantity": 300
+  },
+  {
+    "quantity": 300,
+    "average_price": 164.5625,
+    "tradingsymbol": "NIFTY2571025400CE",
+    "order_timestamp": "2025-07-04T10:16:27.000Z",
+    "transaction_type": "BUY"
+  },
+  {
+    "order_timestamp": "2025-07-04T10:16:50.000Z",
+    "quantity": 300,
+    "average_price": 162.5,
+    "tradingsymbol": "NIFTY2571025400CE",
+    "transaction_type": "BUY"
+  },
+  {
+    "quantity": 300,
+    "tradingsymbol": "NIFTY2571025400CE",
+    "average_price": 161.7625,
+    "order_timestamp": "2025-07-04T10:16:59.000Z",
+    "transaction_type": "BUY"
+  },
+  {
+    "transaction_type": "BUY",
+    "quantity": 300,
+    "average_price": 156.8,
+    "order_timestamp": "2025-07-04T10:17:37.000Z",
+    "tradingsymbol": "NIFTY2571025400CE"
+  },
+  {
+    "average_price": 156.315,
+    "order_timestamp": "2025-07-04T10:18:55.000Z",
+    "tradingsymbol": "NIFTY2571025400CE",
+    "transaction_type": "SELL",
+    "quantity": 1500
+  },
+  {
+    "order_timestamp": "2025-07-04T10:23:02.000Z",
+    "average_price": 163.3875,
+    "transaction_type": "BUY",
+    "tradingsymbol": "NIFTY2571025400CE",
+    "quantity": 1500
+  },
+  {
+    "order_timestamp": "2025-07-04T11:09:50.000Z",
+    "tradingsymbol": "NIFTY2571025400CE",
+    "quantity": 1500,
+    "average_price": 159.36,
+    "transaction_type": "SELL"
+  },
+  {
+    "average_price": 138.3,
+    "quantity": 300,
+    "transaction_type": "BUY",
+    "order_timestamp": "2025-07-04T10:20:23.000Z",
+    "tradingsymbol": "NIFTY2571025400PE"
+  },
+  {
+    "tradingsymbol": "NIFTY2571025400PE",
+    "quantity": 600,
+    "order_timestamp": "2025-07-04T10:20:40.000Z",
+    "transaction_type": "BUY",
+    "average_price": 137.45
+  },
+  {
+    "order_timestamp": "2025-07-04T10:21:00.000Z",
+    "tradingsymbol": "NIFTY2571025400PE",
+    "average_price": 133.66875,
+    "quantity": 600,
+    "transaction_type": "BUY"
+  },
+  {
+    "average_price": 134,
+    "tradingsymbol": "NIFTY2571025400PE",
+    "transaction_type": "BUY",
+    "quantity": 300,
+    "order_timestamp": "2025-07-04T10:21:23.000Z"
+  },
+  {
+    "average_price": 131.41875,
+    "quantity": 1800,
+    "tradingsymbol": "NIFTY2571025400PE",
+    "transaction_type": "SELL",
+    "order_timestamp": "2025-07-04T10:22:48.000Z"
+  },
+  {
+    "tradingsymbol": "NIFTY2570325500CE",
+    "order_timestamp": "2025-07-01T03:51:16.000Z",
+    "quantity": 900,
+    "transaction_type": "BUY",
+    "average_price": 1051.5375
+  },
+  {
+    "order_timestamp": "2025-07-01T04:03:09.000Z",
+    "quantity": 900,
+    "tradingsymbol": "NIFTY2570325500CE",
+    "transaction_type": "SELL",
+    "average_price": 1602.74166667
+  },
+  {
+    "tradingsymbol": "NIFTY2570325500CE",
+    "average_price": 1051.5375,
+    "order_timestamp": "2025-07-01T03:51:16.000Z",
+    "quantity": 900,
+    "transaction_type": "BUY"
+  },
+  {
+    "average_price": 1602.74166667,
+    "tradingsymbol": "NIFTY2570325500CE",
+    "quantity": 900,
+    "order_timestamp": "2025-07-01T04:03:09.000Z",
+    "transaction_type": "SELL"
+  },
+  {
+    "average_price": 12.32,
+    "transaction_type": "SELL",
+    "order_timestamp": "2025-06-24T08:51:21.000Z",
+    "tradingsymbol": "PCJEWELLER",
+    "quantity": 2
+  },
+  {
+    "order_timestamp": "2025-06-24T08:51:40.000Z",
+    "average_price": 12.33,
+    "transaction_type": "BUY",
+    "quantity": 2,
+    "tradingsymbol": "PCJEWELLER"
+  },
+  {
+    "order_timestamp": "2025-06-24T08:44:09.000Z",
+    "average_price": 12.33,
+    "transaction_type": "BUY",
+    "quantity": 2,
+    "tradingsymbol": "PCJEWELLER"
+  },
+  {
+    "average_price": 12.31,
+    "transaction_type": "SELL",
+    "order_timestamp": "2025-06-24T08:46:30.000Z",
+    "quantity": 2,
+    "tradingsymbol": "PCJEWELLER"
+  },
+  {
+    "tradingsymbol": "IDEA",
+    "quantity": 2,
+    "order_timestamp": "2025-06-24T08:25:56.000Z",
+    "average_price": 6.65,
+    "transaction_type": "BUY"
+  },
+  {
+    "quantity": 2,
+    "average_price": 6.65,
+    "order_timestamp": "2025-06-24T08:28:39.000Z",
+    "tradingsymbol": "IDEA",
+    "transaction_type": "SELL"
+  },
+  {
+    "tradingsymbol": "IDEA",
+    "quantity": 2,
+    "transaction_type": "SELL",
+    "order_timestamp": "2025-06-24T08:29:03.000Z",
+    "average_price": 6.65
+  },
+  {
+    "quantity": 2,
+    "order_timestamp": "2025-06-24T08:38:11.000Z",
+    "average_price": 6.65,
+    "transaction_type": "SELL",
+    "tradingsymbol": "IDEA"
+  },
+  {
+    "transaction_type": "BUY",
+    "order_timestamp": "2025-06-24T08:43:36.000Z",
+    "tradingsymbol": "IDEA",
+    "quantity": 4,
+    "average_price": 6.67
+  },
+  {
+    "transaction_type": "BUY",
+    "quantity": 2,
+    "average_price": 12.33,
+    "tradingsymbol": "PCJEWELLER",
+    "order_timestamp": "2025-06-24T08:44:09.000Z"
+  },
+  {
+    "transaction_type": "SELL",
+    "average_price": 12.31,
+    "order_timestamp": "2025-06-24T08:46:30.000Z",
+    "tradingsymbol": "PCJEWELLER",
+    "quantity": 2
+  },
+  {
+    "order_timestamp": "2025-06-24T08:25:56.000Z",
+    "quantity": 2,
+    "transaction_type": "BUY",
+    "tradingsymbol": "IDEA",
+    "average_price": 6.65
+  },
+  {
+    "transaction_type": "SELL",
+    "quantity": 2,
+    "average_price": 6.65,
+    "tradingsymbol": "IDEA",
+    "order_timestamp": "2025-06-24T08:28:39.000Z"
+  },
+  {
+    "average_price": 6.65,
+    "transaction_type": "SELL",
+    "quantity": 2,
+    "order_timestamp": "2025-06-24T08:29:03.000Z",
+    "tradingsymbol": "IDEA"
+  },
+  {
+    "average_price": 6.65,
+    "transaction_type": "SELL",
+    "order_timestamp": "2025-06-24T08:38:11.000Z",
+    "tradingsymbol": "IDEA",
+    "quantity": 2
+  },
+  {
+    "order_timestamp": "2025-06-24T08:43:36.000Z",
+    "tradingsymbol": "IDEA",
+    "transaction_type": "BUY",
+    "quantity": 4,
+    "average_price": 6.67
+  },
+  {
+    "average_price": 12.32,
+    "transaction_type": "SELL",
+    "tradingsymbol": "PCJEWELLER",
+    "quantity": 2,
+    "order_timestamp": "2025-06-24T08:51:21.000Z"
+  },
+  {
+    "order_timestamp": "2025-06-24T08:51:40.000Z",
+    "quantity": 2,
+    "transaction_type": "BUY",
+    "average_price": 12.33,
+    "tradingsymbol": "PCJEWELLER"
+  },
+  {
+    "average_price": 138.3,
+    "transaction_type": "BUY",
+    "tradingsymbol": "NIFTY2571025400PE",
+    "order_timestamp": "2025-07-04T10:20:23.000Z",
+    "quantity": 300
+  },
+  {
+    "average_price": 137.45,
+    "transaction_type": "BUY",
+    "order_timestamp": "2025-07-04T10:20:40.000Z",
+    "quantity": 600,
+    "tradingsymbol": "NIFTY2571025400PE"
+  },
+  {
+    "tradingsymbol": "NIFTY2571025400PE",
+    "quantity": 600,
+    "transaction_type": "BUY",
+    "order_timestamp": "2025-07-04T10:21:00.000Z",
+    "average_price": 133.66875
+  },
+  {
+    "order_timestamp": "2025-07-04T10:21:23.000Z",
+    "tradingsymbol": "NIFTY2571025400PE",
+    "quantity": 300,
+    "transaction_type": "BUY",
+    "average_price": 134
+  },
+  {
+    "average_price": 131.41875,
+    "tradingsymbol": "NIFTY2571025400PE",
+    "transaction_type": "SELL",
+    "quantity": 1800,
+    "order_timestamp": "2025-07-04T10:22:48.000Z"
+  },
+  {
+    "average_price": 147.725,
+    "quantity": 900,
+    "tradingsymbol": "NIFTY2571025400PE",
+    "transaction_type": "BUY",
+    "order_timestamp": "2025-07-04T09:39:11.000Z"
+  },
+  {
+    "tradingsymbol": "NIFTY2571025400PE",
+    "average_price": 137.7,
+    "quantity": 900,
+    "order_timestamp": "2025-07-04T09:53:14.000Z",
+    "transaction_type": "SELL"
+  },
+  {
+    "quantity": 300,
+    "average_price": 139.35,
+    "tradingsymbol": "NIFTY2571025400PE",
+    "transaction_type": "BUY",
+    "order_timestamp": "2025-07-04T10:13:39.000Z"
+  },
+  {
+    "order_timestamp": "2025-07-04T10:15:28.000Z",
+    "transaction_type": "BUY",
+    "average_price": 137.35,
+    "tradingsymbol": "NIFTY2571025400PE",
+    "quantity": 300
+  },
+  {
+    "quantity": 600,
+    "tradingsymbol": "NIFTY2571025400PE",
+    "order_timestamp": "2025-07-04T10:15:59.000Z",
+    "transaction_type": "SELL",
+    "average_price": 134.2
+  },
+  {
+    "order_timestamp": "2025-07-04T10:16:14.000Z",
+    "tradingsymbol": "NIFTY2571025400CE",
+    "average_price": 163.875,
+    "quantity": 300,
+    "transaction_type": "BUY"
+  },
+  {
+    "tradingsymbol": "NIFTY2571025400CE",
+    "average_price": 164.5625,
+    "quantity": 300,
+    "transaction_type": "BUY",
+    "order_timestamp": "2025-07-04T10:16:27.000Z"
+  },
+  {
+    "order_timestamp": "2025-07-04T10:16:50.000Z",
+    "tradingsymbol": "NIFTY2571025400CE",
+    "average_price": 162.5,
+    "quantity": 300,
+    "transaction_type": "BUY"
+  },
+  {
+    "order_timestamp": "2025-07-04T10:16:59.000Z",
+    "tradingsymbol": "NIFTY2571025400CE",
+    "transaction_type": "BUY",
+    "average_price": 161.7625,
+    "quantity": 300
+  },
+  {
+    "transaction_type": "BUY",
+    "quantity": 300,
+    "average_price": 156.8,
+    "order_timestamp": "2025-07-04T10:17:37.000Z",
+    "tradingsymbol": "NIFTY2571025400CE"
+  },
+  {
+    "average_price": 156.315,
+    "order_timestamp": "2025-07-04T10:18:55.000Z",
+    "tradingsymbol": "NIFTY2571025400CE",
+    "quantity": 1500,
+    "transaction_type": "SELL"
+  },
+  {
+    "quantity": 1500,
+    "tradingsymbol": "NIFTY2571025400CE",
+    "transaction_type": "BUY",
+    "average_price": 163.3875,
+    "order_timestamp": "2025-07-04T10:23:02.000Z"
+  },
+  {
+    "tradingsymbol": "NIFTY2571025400CE",
+    "order_timestamp": "2025-07-04T11:09:50.000Z",
+    "transaction_type": "SELL",
+    "quantity": 1500,
+    "average_price": 159.36
+  },
+  {
+    "average_price": 1051.5375,
+    "order_timestamp": "2025-07-01T03:51:16.000Z",
+    "tradingsymbol": "NIFTY2570325500CE",
+    "quantity": 900,
+    "transaction_type": "BUY"
+  },
+  {
+    "average_price": 1602.74166667,
+    "tradingsymbol": "NIFTY2570325500CE",
+    "quantity": 900,
+    "transaction_type": "SELL",
+    "order_timestamp": "2025-07-01T04:03:09.000Z"
+  },
+  {
+    "quantity": 2,
+    "order_timestamp": "2025-06-24T08:51:21.000Z",
+    "tradingsymbol": "PCJEWELLER",
+    "transaction_type": "SELL",
+    "average_price": 12.32
+  },
+  {
+    "average_price": 12.33,
+    "quantity": 2,
+    "order_timestamp": "2025-06-24T08:51:40.000Z",
+    "transaction_type": "BUY",
+    "tradingsymbol": "PCJEWELLER"
+  },
+  {
+    "tradingsymbol": "IDEA",
+    "average_price": 6.65,
+    "quantity": 2,
+    "transaction_type": "SELL",
+    "order_timestamp": "2025-06-24T08:29:03.000Z"
+  },
+  {
+    "tradingsymbol": "IDEA",
+    "transaction_type": "SELL",
+    "quantity": 2,
+    "average_price": 6.65,
+    "order_timestamp": "2025-06-24T08:38:11.000Z"
+  },
+  {
+    "tradingsymbol": "IDEA",
+    "quantity": 4,
+    "average_price": 6.67,
+    "order_timestamp": "2025-06-24T08:43:36.000Z",
+    "transaction_type": "BUY"
+  },
+  {
+    "average_price": 6.65,
+    "tradingsymbol": "IDEA",
+    "transaction_type": "BUY",
+    "quantity": 2,
+    "order_timestamp": "2025-06-24T08:25:56.000Z"
+  },
+  {
+    "average_price": 6.65,
+    "order_timestamp": "2025-06-24T08:28:39.000Z",
+    "tradingsymbol": "IDEA",
+    "transaction_type": "SELL",
+    "quantity": 2
+  },
+  {
+    "transaction_type": "BUY",
+    "quantity": 2,
+    "order_timestamp": "2025-06-24T08:44:09.000Z",
+    "average_price": 12.33,
+    "tradingsymbol": "PCJEWELLER"
+  },
+  {
+    "order_timestamp": "2025-06-24T08:46:30.000Z",
+    "quantity": 2,
+    "tradingsymbol": "PCJEWELLER",
+    "average_price": 12.31,
+    "transaction_type": "SELL"
+  },
+  {
+    "order_timestamp": "2025-07-04T09:39:11.000Z",
+    "quantity": 900,
+    "transaction_type": "BUY",
+    "tradingsymbol": "NIFTY2571025400PE",
+    "average_price": 147.725
+  },
+  {
+    "transaction_type": "SELL",
+    "order_timestamp": "2025-07-04T09:53:14.000Z",
+    "average_price": 137.7,
+    "quantity": 900,
+    "tradingsymbol": "NIFTY2571025400PE"
+  },
+  {
+    "order_timestamp": "2025-07-04T10:13:39.000Z",
+    "quantity": 300,
+    "transaction_type": "BUY",
+    "average_price": 139.35,
+    "tradingsymbol": "NIFTY2571025400PE"
+  },
+  {
+    "order_timestamp": "2025-07-04T10:15:28.000Z",
+    "quantity": 300,
+    "tradingsymbol": "NIFTY2571025400PE",
+    "average_price": 137.35,
+    "transaction_type": "BUY"
+  },
+  {
+    "order_timestamp": "2025-07-04T10:15:59.000Z",
+    "transaction_type": "SELL",
+    "tradingsymbol": "NIFTY2571025400PE",
+    "average_price": 134.2,
+    "quantity": 600
+  },
+  {
+    "average_price": 163.875,
+    "order_timestamp": "2025-07-04T10:16:14.000Z",
+    "transaction_type": "BUY",
+    "tradingsymbol": "NIFTY2571025400CE",
+    "quantity": 300
+  },
+  {
+    "quantity": 300,
+    "average_price": 164.5625,
+    "tradingsymbol": "NIFTY2571025400CE",
+    "order_timestamp": "2025-07-04T10:16:27.000Z",
+    "transaction_type": "BUY"
+  },
+  {
+    "order_timestamp": "2025-07-04T10:16:50.000Z",
+    "quantity": 300,
+    "average_price": 162.5,
+    "tradingsymbol": "NIFTY2571025400CE",
+    "transaction_type": "BUY"
+  },
+  {
+    "quantity": 300,
+    "tradingsymbol": "NIFTY2571025400CE",
+    "average_price": 161.7625,
+    "order_timestamp": "2025-07-04T10:16:59.000Z",
+    "transaction_type": "BUY"
+  },
+  {
+    "transaction_type": "BUY",
+    "quantity": 300,
+    "average_price": 156.8,
+    "order_timestamp": "2025-07-04T10:17:37.000Z",
+    "tradingsymbol": "NIFTY2571025400CE"
+  },
+  {
+    "average_price": 156.315,
+    "order_timestamp": "2025-07-04T10:18:55.000Z",
+    "tradingsymbol": "NIFTY2571025400CE",
+    "transaction_type": "SELL",
+    "quantity": 1500
+  },
+  {
+    "order_timestamp": "2025-07-04T10:23:02.000Z",
+    "average_price": 163.3875,
+    "transaction_type": "BUY",
+    "tradingsymbol": "NIFTY2571025400CE",
+    "quantity": 1500
+  },
+  {
+    "order_timestamp": "2025-07-04T11:09:50.000Z",
+    "tradingsymbol": "NIFTY2571025400CE",
+    "quantity": 1500,
+    "average_price": 159.36,
+    "transaction_type": "SELL"
+  },
+  {
+    "average_price": 138.3,
+    "quantity": 300,
+    "transaction_type": "BUY",
+    "order_timestamp": "2025-07-04T10:20:23.000Z",
+    "tradingsymbol": "NIFTY2571025400PE"
+  },
+  {
+    "tradingsymbol": "NIFTY2571025400PE",
+    "quantity": 600,
+    "order_timestamp": "2025-07-04T10:20:40.000Z",
+    "transaction_type": "BUY",
+    "average_price": 137.45
+  },
+  {
+    "order_timestamp": "2025-07-04T10:21:00.000Z",
+    "tradingsymbol": "NIFTY2571025400PE",
+    "average_price": 133.66875,
+    "quantity": 600,
+    "transaction_type": "BUY"
+  },
+  {
+    "average_price": 134,
+    "tradingsymbol": "NIFTY2571025400PE",
+    "transaction_type": "BUY",
+    "quantity": 300,
+    "order_timestamp": "2025-07-04T10:21:23.000Z"
+  },
+  {
+    "average_price": 131.41875,
+    "quantity": 1800,
+    "tradingsymbol": "NIFTY2571025400PE",
+    "transaction_type": "SELL",
+    "order_timestamp": "2025-07-04T10:22:48.000Z"
+  },
+  {
+    "tradingsymbol": "NIFTY2570325500CE",
+    "order_timestamp": "2025-07-01T03:51:16.000Z",
+    "quantity": 900,
+    "transaction_type": "BUY",
+    "average_price": 1051.5375
+  },
+  {
+    "order_timestamp": "2025-07-01T04:03:09.000Z",
+    "quantity": 900,
+    "tradingsymbol": "NIFTY2570325500CE",
+    "transaction_type": "SELL",
+    "average_price": 1602.74166667
+  },
+  {
+    "tradingsymbol": "NIFTY2570325500CE",
+    "average_price": 1051.5375,
+    "order_timestamp": "2025-07-01T03:51:16.000Z",
+    "quantity": 900,
+    "transaction_type": "BUY"
+  },
+  {
+    "average_price": 1602.74166667,
+    "tradingsymbol": "NIFTY2570325500CE",
+    "quantity": 900,
+    "order_timestamp": "2025-07-01T04:03:09.000Z",
+    "transaction_type": "SELL"
+  },
+  {
+    "average_price": 12.32,
+    "transaction_type": "SELL",
+    "order_timestamp": "2025-06-24T08:51:21.000Z",
+    "tradingsymbol": "PCJEWELLER",
+    "quantity": 2
+  },
+  {
+    "order_timestamp": "2025-06-24T08:51:40.000Z",
+    "average_price": 12.33,
+    "transaction_type": "BUY",
+    "quantity": 2,
+    "tradingsymbol": "PCJEWELLER"
+  },
+  {
+    "order_timestamp": "2025-06-24T08:44:09.000Z",
+    "average_price": 12.33,
+    "transaction_type": "BUY",
+    "quantity": 2,
+    "tradingsymbol": "PCJEWELLER"
+  },
+  {
+    "average_price": 12.31,
+    "transaction_type": "SELL",
+    "order_timestamp": "2025-06-24T08:46:30.000Z",
+    "quantity": 2,
+    "tradingsymbol": "PCJEWELLER"
+  },
+  {
+    "tradingsymbol": "IDEA",
+    "quantity": 2,
+    "order_timestamp": "2025-06-24T08:25:56.000Z",
+    "average_price": 6.65,
+    "transaction_type": "BUY"
+  },
+  {
+    "quantity": 2,
+    "average_price": 6.65,
+    "order_timestamp": "2025-06-24T08:28:39.000Z",
+    "tradingsymbol": "IDEA",
+    "transaction_type": "SELL"
+  },
+  {
+    "tradingsymbol": "IDEA",
+    "quantity": 2,
+    "transaction_type": "SELL",
+    "order_timestamp": "2025-06-24T08:29:03.000Z",
+    "average_price": 6.65
+  },
+  {
+    "quantity": 2,
+    "order_timestamp": "2025-06-24T08:38:11.000Z",
+    "average_price": 6.65,
+    "transaction_type": "SELL",
+    "tradingsymbol": "IDEA"
+  },
+  {
+    "transaction_type": "BUY",
+    "order_timestamp": "2025-06-24T08:43:36.000Z",
+    "tradingsymbol": "IDEA",
+    "quantity": 4,
+    "average_price": 6.67
+  }
+]

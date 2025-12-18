@@ -1,0 +1,27 @@
+{
+    "sidebar": {
+        "title": "Logo Here",
+        "dashboard": "Dashboard",
+        "journal": "Journal",
+        "review": "Meet an Expert",
+        "connect": "Connect your broker",
+        "feedback": "Share Feedback"
+    },
+   "navbar": {
+    "connect": "Connect Broker",
+    "notification": "Notifications",
+     "theme":{
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+     },
+     "languages":{
+        "en": "English",
+        "hi": "हिंदी"
+     },
+     "profile":{
+        "profile": "Profile",
+        "logout": "Logout"
+     }
+    }
+}

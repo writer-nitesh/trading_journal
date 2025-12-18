@@ -1,0 +1,27 @@
+{
+  "sidebar": {
+    "title": "लोगो यहाँ",
+    "dashboard": "डैशबोर्ड",
+    "journal": "जर्नल",
+    "connect": "ब्रोकर से कनेक्ट करें",
+    "review": "जर्नल रिव्यू",
+    "feedback": "प्रतिक्रिया साझा करें"
+  },
+  "navbar": {
+    "connect": "ब्रोकर से कनेक्ट करें",
+    "notification": "सूचनाएँ",
+    "theme": {
+      "light": "हल्का",
+      "dark": "गहरा",
+      "system": "सिस्टम"
+    },
+    "languages": {
+      "en": "English",
+      "hi": "हिंदी"
+    },
+    "profile": {
+      "profile": "प्रोफ़ाइल",
+      "logout": "लॉगआउट"
+    }
+  }
+}
